@@ -1,5 +1,4 @@
-# End-to-End-Data-Analytics-Project-using-Python-and-SQL
-
+# Retail Sales Analysis Project Using Python and SQL
 ### Introduction
 
 This repository hosts an end-to-end data analytics project that utilizes Python and SQL to analyze a retail orders dataset. The project focuses on extracting, transforming, and loading (ETL) data, cleaning and processing it using pandas, and performing analytical queries in SQL Server to derive insights.
